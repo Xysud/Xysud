@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/77b0ef69-a809-4ed8-a2af-233e82b56e06" />
+![Banner abstrato em azul escuro — Xysud](https://github.com/user-attachments/assets/77b0ef69-a809-4ed8-a2af-233e82b56e06)
+
 # Xysud
 
 ### Desenvolvimento web · Interfaces · Projetos práticos
