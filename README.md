@@ -1,18 +1,11 @@
-![Banner abstrato em azul escuro — Xysud](https://github.com/user-attachments/assets/77b0ef69-a809-4ed8-a2af-233e82b56e06)
-
+![Monochrome abstract banner — Xysud](https://github.com/user-attachments/assets/89fa87ef-20e9-4590-a43d-b4cab40b87dc)
 # Xysud
-
-### Desenvolvimento web · Interfaces · Projetos práticos
-
-Estou a construir o meu percurso em desenvolvimento web através de projetos reais, com atenção ao design, à interação e aos pequenos detalhes que tornam um site agradável de usar.
-
-## O que estou a explorar
-
-- **Frontend:** HTML, CSS e JavaScript para criar interfaces responsivas.
-- **Interação:** carrosséis, menus e animações discretas.
-- **Backend:** Node.js e gestão de conteúdos em ambiente local.
-- **Processo:** Git, GitHub e documentação para manter os projetos organizados.
-
+### Web development · Interfaces · Practical projects
+I’m building my path in web development through real projects, with care for design, interaction, and the small details that make a site enjoyable to use.
+## What I’m exploring
+- **Frontend:** HTML, CSS, and JavaScript for responsive interfaces.
+- **Interaction:** carousels, menus, and subtle animations.
+- **Backend:** Node.js and local content management.
+- **Process:** Git, GitHub, and documentation to keep projects organized.
 ---
-
-Aprender, construir e melhorar — um projeto de cada vez.
+Learn, build, and improve — one project at a time.
