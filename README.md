@@ -13,7 +13,7 @@ I’m building my path in web development through real projects, with care for d
 
 ## Featured project: Hidden King
 
-<a href="https://github.com/Xysud/hidden-king-releases#download"><img src="https://raw.githubusercontent.com/Xysud/hidden-king-releases/main/hidden-king-banner.svg" alt="Hidden King — Your game. Your setup." width="760" /></a>
+<a href="https://github.com/Xysud/hidden-king-releases#download"><img src="https://raw.githubusercontent.com/Xysud/hidden-king-releases/9d3103defbb7dafd46e376cf9ac3a9940a92df9c/hidden-king-banner.svg" alt="Hidden King — Your game. Your setup." width="760" /></a>
 
 **A Windows mod manager for Deadlock.** Browse community mods, organize your Library and make the game your own.
 
